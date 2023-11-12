@@ -1,0 +1,51 @@
+.tituloIndex{
+  color: black;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.ParagrafoIndex{
+  display: inline;
+  font-size: 23px;
+  background-color: rgb(187, 187, 212);
+  border: 1px solid black;
+}
+a{
+  text-decoration: none; 
+}
+
+.separacao{
+  display: grid;
+  gap: 25px;
+  margin-top: 25px;
+  width: 5%;
+}
+.botao{
+  text-align: center;
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.tituloExperiencia{
+  text-align: center;
+  color: #2F4F4F;
+}
+
+.textoSobre{
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.subTituloHobby{
+  font-size: 30px;
+}
+
+.botaoContatos{
+  display: block;
+  text-align: center;
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
